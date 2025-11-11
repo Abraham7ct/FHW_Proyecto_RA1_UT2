@@ -9,10 +9,10 @@
 3. Para cada modelo, recoge: **Marca/Modelo**, **Potencia (W)**, **Certificación 80 PLUS**, **Precio (€)**, **Modularidad**, **PFC (activo/pasivo)**, **Dimensiones (mm)**, **Enlace**.
 4. Al final, incluye una **tabla resumen comparativa global**.
 
-### Tienda 1: ______________
+### Tienda 1: PcComponentes
 | Tipo | Marca/Modelo | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC | Dimensiones (L×W×H mm) | Enlace |
 |------|---------------|--------------|---------|-----------:|------------|-----|------------------------|--------|
-| ATX  |               |              |         |            |            |     |                        |        |
+| ATX  |Tacens Anima APIII750|750 |Bronze |26.91|NO|85%|145x150x85|http://pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro  |
 | SFX  |               |              |         |            |            |     |                        |        |
 | TFX  |               |              |         |            |            |     |                        |        |
 
