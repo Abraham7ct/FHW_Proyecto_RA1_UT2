@@ -13,7 +13,7 @@
 | Tipo | Marca/Modelo | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC | Dimensiones (L×W×H mm) | Enlace |
 |------|---------------|--------------|---------|-----------:|------------|-----|------------------------|--------|
 | ATX  |Tacens Anima APIII750|750 |Bronze |26.91|NO|85%|145x150x85|http://pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro  |
-| SFX  |               |              |         |            |            |     |                        |        |
+| SFX  |TooQ Ecopower II|500|Bronze|21.94|NO|N/A|63.5x125x100|https://www.pccomponentes.com/tooq-ecopower-ii-500w-sfx|
 | TFX  |               |              |         |            |            |     |                        |        |
 
 **Notas/criterios de la tienda 1:**
