@@ -14,7 +14,7 @@
 |------|---------------|--------------|---------|-----------:|------------|-----|------------------------|--------|
 | ATX  |Tacens Anima APIII750|750 |Bronze |26.91|NO|85%|145x150x85|http://pccomponentes.com/fuente-alimentacion-tacens-anima-apiii750-fuente-alimentacion-atx-750w-85-bronze-ventilador-12cm-negro  |
 | SFX  |TooQ Ecopower II|500|Bronze|21.94|NO|N/A|63.5x125x100|https://www.pccomponentes.com/tooq-ecopower-ii-500w-sfx|
-| TFX  |               |              |         |            |            |     |                        |        |
+| TFX  |Tacens Anima Aptii500p|500|NO|22.64|NO|Sin PFC|150x85x65|https://www.pccomponentes.com/tacens-anima-aptii500p-fuente-alimentacion-tfx-500w-ultracompacta-85-smd-ventilador-80mm-negro|
 
 **Notas/criterios de la tienda 1:**
 
