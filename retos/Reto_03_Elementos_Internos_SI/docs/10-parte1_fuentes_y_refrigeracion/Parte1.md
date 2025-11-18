@@ -50,12 +50,12 @@
 3. Compara **precio, eficiencia térmica (TDP soportado/temperaturas), ruido, dimensiones, compatibilidad de socket, mantenimiento, garantía**…
 4. **Concluye** con recomendaciones por perfil (**gamer**, **diseño/pro**, **usuario estándar**) y **calidad-precio**.
 
-**CPU elegida:** ________________________________
+**CPU elegida:** Ryzen 7 7445 HS
 
 ### Modelos evaluados
 | Tipo | Marca/Modelo | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm) | Sockets | Mantenimiento | Garantía | Enlace |
 |------|---------------|-----------:|-------------------------------------|-------------|------------------|---------|---------------|----------|--------|
-| Líquida (AIO) |    |            |                                     |             |                  |         |               |          |        |
+| Líquida (AIO) |  x  |      x      |                x                     |      x       |           x       |       x  |       x        |      x    |     x   |
 | Pasiva        |    |            |                                     |             |                  |         |               |          |        |
 
 ### Análisis y elección por perfil
