@@ -27,12 +27,12 @@
 
 **Notas/criterios de la tienda 2:**
 
-### Tienda 3: ______________
+### Tienda 3:PC BOX
 | Tipo | Marca/Modelo | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC | Dimensiones (L×W×H mm) | Enlace |
 |------|---------------|--------------|---------|-----------:|------------|-----|------------------------|--------|
-| ATX  |               |              |         |            |            |     |                        |        |
-| SFX  |               |              |         |            |            |     |                        |        |
-| TFX  |               |              |         |            |            |     |                        |        |
+| ATX  |MARS GAMING MPZE750SI|750W|Silver|71,10|NO|87%|125 x 205x 240mm|https://www.pcbox.com/mpze750si-fuente-de-alimentacion-mars-gaming-750w-mpze750si-extreme-silence-80-/p|
+| SFX  |UNYKA SFX |300W|Bronze|41,03|NO|85%|75 x 155 x 130mm|https://www.pcbox.com/52003-unyka--sfx-300w-300w-8-cm-80-plus-bronze/p|
+| TFX  |COOLBOX TFX|250W|Gold|46,21|NO|90%| 86x140x150mm|https://www.pcbox.com/coo-fa250-tgld-fuente-alimentacion-250w-coolbox-tfx-80--gold/p|
 
 **Notas/criterios de la tienda 3:**
 
