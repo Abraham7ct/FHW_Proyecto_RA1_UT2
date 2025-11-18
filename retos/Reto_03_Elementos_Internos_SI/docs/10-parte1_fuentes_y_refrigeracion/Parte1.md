@@ -50,18 +50,18 @@
 3. Compara **precio, eficiencia térmica (TDP soportado/temperaturas), ruido, dimensiones, compatibilidad de socket, mantenimiento, garantía**…
 4. **Concluye** con recomendaciones por perfil (**gamer**, **diseño/pro**, **usuario estándar**) y **calidad-precio**.
 
-**CPU elegida:** Ryzen 7 7445 HS
+**CPU elegida:** Ryzen 7 9800X3D
 
 ### Modelos evaluados
 | Tipo | Marca/Modelo | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm) | Sockets | Mantenimiento | Garantía | Enlace |
 |------|---------------|-----------:|-------------------------------------|-------------|------------------|---------|---------------|----------|--------|
-| Líquida (AIO) |  x  |      x      |                x                     |      x       |           x       |       x  |       x        |      x    |     x   |
-| Pasiva        |    |            |                                     |             |                  |         |               |          |        |
+| Líquida (AIO) |Thermaltake LA240-S|91,66|350W|38,35 dB-A|277 x 120 x 27mm|LGA 1151|NO|1 año (extendible a 3)|https://www.pccomponentes.com/refrigeracion-liquida-thermaltake-la240-s-argb-240mm-2-ventiladores-argb?srsltid=AfmBOorqous8TV05Zy9vETOsaE1iIIAL20li9OFsQ4SkDp5t1pmWztJO|
+| Pasiva        |    |            |                                     |             |                  |LGA 1151|               |          |https://www.pccomponentes.com/ventilador-cpu-noctua-nh-d15-g2-hbc-ventilador-cpu-140mm-marron?srsltid=AfmBOoosIhc-dnaSZM3cbWB9gwOKN-qMvbLiHgk2GTkVVoTzZLB4TKJA|
 
 ### Análisis y elección por perfil
-- **Gamer:**  
-- **Profesional de diseño/simulación:**  
-- **Usuario estándar/ofimática:**  
+- **Gamer:Refrigeración pasiva (ventiladores de gama alta)   
+- **Profesional de diseño/simulación: Refrigeración líquida (AIO)  
+- **Usuario estándar/ofimática:Refrigeración pasiva  
 
 ### Conclusión general
 (Síntesis de hallazgos, relación calidad-precio y adecuación por necesidad/presupuesto)
