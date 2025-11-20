@@ -66,9 +66,11 @@
 | Pasiva |Noctua NH-D15 G2 |111-117|180W+|22,6 dB-A|158x125x112mm|AM5, AM4, Intel|Bajo (sin bomba)|6años|https://www.noctua.at/en/products/nh-u12a|
 
 ### Análisis y elección por perfil
-- **Gamer:Refrigeración pasiva (ventiladores de gama alta)   
-- **Profesional de diseño/simulación: Refrigeración líquida (AIO)  
-- **Usuario estándar/ofimática:Refrigeración pasiva, gama de ventiladores no relevante. 
+- **Gamer:Líquida AIO potente (temperatura baja, margen, RGB). Ejemplo:Corsair iCUE LINK Titan 360 RX
+- **Profesional de diseño/simulación:Líquida AIO o aire premium (eficiencia, silencio, según uso y espacio). 
+- **Usuario estándar/ofimática:Aire silencioso (bajo ruido, sin mantenimiento, suficiente).
 
 ### Conclusión general
-(Síntesis de hallazgos, relación calidad-precio y adecuación por necesidad/presupuesto)
+- **Gamer:Los gamers suelen exigir alto rendimiento y estabilidad bajo carga prolongada, sobre todo si hay overclock. Las AIO permiten mantener temperaturas más bajas, margen para overclock y estética gamer con iluminación RGB. Ideales en cajas que admiten radiadores grandes.
+- **Profesional de diseño/simulación:Estos usuarios emplean la CPU a máxima carga por mucho tiempo. La refrigeración líquida brinda mejores temperaturas en tareas intensivas y cargas continuas, pero un disipador premium de gran capacidad, bien gestionado, también es suficiente para equipos silenciosos y de bajo mantenimiento. Elegir según preferencias de ruido y facilidad de mantenimiento.
+- **Usuario estándar/ofimática:Cargas ligeras y prolongadas. No requieren máxima capacidad térmica, sino silencio y fiabilidad sin mantenimiento. Los disipadores de aire modernos ofrecen temperaturas más que adecuadas y apenas generan ruido.
