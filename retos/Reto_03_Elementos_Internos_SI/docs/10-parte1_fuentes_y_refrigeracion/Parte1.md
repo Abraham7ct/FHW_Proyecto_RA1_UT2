@@ -62,8 +62,8 @@
 ### Modelos evaluados
 | Tipo | Marca/Modelo | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm) | Sockets | Mantenimiento | Garantía | Enlace |
 |------|---------------|-----------:|-------------------------------------|-------------|------------------|---------|---------------|----------|--------|
-| Líquida (AIO) |Thermaltake LA240-S|91,66|350W|38,35 dB-A|277 x 120 x 27mm|LGA 1151|NO|1 año (extendible a 3)|https://www.pccomponentes.com/refrigeracion-liquida-thermaltake-la240-s-argb-240mm-2-ventiladores-argb?srsltid=AfmBOorqous8TV05Zy9vETOsaE1iIIAL20li9OFsQ4SkDp5t1pmWztJO|
-| Pasiva        |Noctua NH-D15 G2 |149,94|250W|24.8 dB-A|168x162x150mm|LGA 1151|Pasta termica cada 3-5 años|6años|https://www.pccomponentes.com/ventilador-cpu-noctua-nh-d15-g2-hbc-ventilador-cpu-140mm-marron?srsltid=AfmBOoosIhc-dnaSZM3cbWB9gwOKN-qMvbLiHgk2GTkVVoTzZLB4TKJA|
+| Líquida (AIO) |Corsair iCUE LINK Titan 360 RX|156,99|>250W|10-36 dB-A|396x120x27mm|AM5, AM4, Intel 1700+|Medio-bajo (anual)|5 años|https://www.corsair.com/es/es/p/cpu-coolers/cw-9061018-ww/icue-link-titan-360-rx-rgb-aio-cpu-cooler-black|
+| Pasiva |Noctua NH-D15 G2 |111-117|180W+|22,6 dB-A|158x125x112mm|AM5, AM4, Intel|Bajo (sin bomba)|6años|https://www.noctua.at/en/products/nh-u12a|
 
 ### Análisis y elección por perfil
 - **Gamer:Refrigeración pasiva (ventiladores de gama alta)   
