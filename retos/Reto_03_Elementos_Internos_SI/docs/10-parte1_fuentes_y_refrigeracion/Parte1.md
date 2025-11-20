@@ -39,8 +39,15 @@
 #### Tabla **resumen comparativa** (global, 9 modelos)
 | Tienda | Tipo | Marca/Modelo | Potencia (W) | 80 PLUS | Precio (€) | Modularidad | PFC | Dimensiones (mm) | Observaciones |
 |--------|------|---------------|--------------|---------|-----------:|------------|-----|------------------|---------------|
-|        |      |               |              |         |            |            |     |                  |               |
-
+|PcComponentes| ATX  |Tacens Anima APIII750|750 |Bronze |26.91|NO|85%|145x150x85|Ventilador 120mm, silenciosa, cables planos largos, SMD|
+|PcComponentes| SFX  |TooQ Ecopower II|500|Bronze|21.94|NO|N/A|63.5x125x100|Compacta, ventilador 80mm, protecciones completas|
+|PcComponentes| TFX  |Tacens Anima Aptii500p|500|NO|22.64|NO|Sin PFC|150x85x65|Ultra compacta, silenciosa, cables planos, TÜV|
+|AmazonEs| ATX  |Cooler Master MWE |1250W|Gold|299,71|SI|90%|180 x 150 x 86|ATX 3.0, ventilador 140mm, garantía 10 años|
+|AmazonEs| SFX  |GAMEMAX GS|750W|Gold|109,99|SI|90%|125 x 110 x 65|SFX, condensadores japoneses, 9 protecciones, 5 años|
+|AmazonEs| TFX  |Coolbox Falcoo300Tbz|300W|Bronze|32,81|NO|85%|85 x 65 x 175mm|Para chasis compactos, ventilador 80mm|
+|PcBox| ATX  |MARS GAMING MPZE750SI|750W|Silver|71,10|NO|87%|125 x 205x 240mm|Ventilador 120mm, FDB, garantía 10 años|
+|PcBox| SFX  |UNYKA SFX |300W|Bronze|41,03|NO|85%|75 x 155 x 130mm|80 PLUS, ventilador 80mm|
+|PcBox| TFX  |COOLBOX TFX|250W|Gold|46,21|NO|90%| 86x140x150mm|Compacta, alta eficiencia, ventilador 80mm|
 ---
 ## Actividad B — **Refrigeración para la MISMA CPU** (Líquida vs Pasiva)
 
