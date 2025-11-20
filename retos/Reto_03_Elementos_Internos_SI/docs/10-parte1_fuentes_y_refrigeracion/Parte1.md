@@ -63,7 +63,7 @@
 | Tipo | Marca/Modelo | Precio (€) | TDP soportado / Rendimiento térmico | Ruido (dBA) | Dimensiones (mm) | Sockets | Mantenimiento | Garantía | Enlace |
 |------|---------------|-----------:|-------------------------------------|-------------|------------------|---------|---------------|----------|--------|
 | Líquida (AIO) |Corsair iCUE LINK Titan 360 RX|156,99|>250W|10-36 dB-A|396x120x27mm|AM5, AM4, Intel 1700+|Medio-bajo (anual)|5 años|https://www.corsair.com/es/es/p/cpu-coolers/cw-9061018-ww/icue-link-titan-360-rx-rgb-aio-cpu-cooler-black|
-| Pasiva |Noctua NH-D15 G2 |111-117|180W+|22,6 dB-A|158x125x112mm|AM5, AM4, Intel|Bajo (sin bomba)|6años|https://www.noctua.at/en/products/nh-u12a|
+| Aire |Noctua NH-D15 G2 |111-117|180W+|22,6 dB-A|158x125x112mm|AM5, AM4, Intel|Bajo (sin bomba)|6años|https://www.noctua.at/en/products/nh-u12a|
 
 ### Análisis y elección por perfil
 - **Gamer:Líquida AIO potente (temperatura baja, margen, RGB). Ejemplo:Corsair iCUE LINK Titan 360 RX
