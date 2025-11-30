@@ -22,14 +22,16 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 ### 1.2 Memoria RAM — PC gaming
 | Campo | Valor |
 |---|---|
-| **Marca y modelo** |  |
-| **Capacidad** |  |
-| **Velocidad / Timings / XMP-EXPO** |  |
-| **Tipo (DDR4/DDR5)** |  |
-| **Precio (€)** |  |
-| **URL** |  |
-| **Captura** | ![ram_gaming](../../assets/img/20-parte2/ram_gaming.png "Captura RAM gaming") |
-| **Justificación** | Argumenta pensando en **fps**, latencias, overclock, garantía, estética (si aplica). |
+| **Marca y modelo** |Corsair Vengeance RGB DDR5 (CMH32GX5M2E6000Z36W)
+|
+| **Capacidad** |32GB (2x16GB)|
+| **Velocidad / Timings / XMP-EXPO** |DDR5 6000MHz, CAS 36, Intel XMP 3.0 & AMD EXPO
+|
+| **Tipo (DDR4/DDR5)** |DDR5|
+| **Precio (€)** |713,00€|
+| **URL** |https://www.pccomponentes.com/memoria-ram-corsair-32gb-ddr5-6000mhz-vengeance-rgb-cmh32gx5m2e6000z36w|
+| **Captura** | ![ram_gaming](../../assets/img/10-parte1/RAMCorsair.png)|
+| **Justificación** |Para gaming competitivo con streaming simultáneo, 32GB de DDR5 es óptimo. La velocidad 6000MHz y latencia CAS 36 garantizan máximos FPS en juegos AAA 2025.La iluminación RGB sincronizable (Corsair iCUE) añade estética gaming. Disipador térmico integrado mantiene temperaturas estables bajo carga sostenida. Voltaje 1.4V es eficiente para DDR5. Ideal con GPU RTX 5070+.|
 
 ### 1.3 Microprocesador — PC de oficina
 | Campo | Valor |
