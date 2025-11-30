@@ -36,32 +36,36 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 ### 1.3 Microprocesador — PC de oficina
 | Campo | Valor |
 |---|---|
-| **Marca y modelo** |  |
-| **Núcleos / Hilos** |  |
-| **Frecuencias (base/boost)** |  |
-| **Gráficos integrados** |  |
-| **TDP / Consumo** |  |
+| **Marca y modelo** |Intel Core i5-14400 2.5/4.7GHz Box
+|
+| **Núcleos / Hilos** |10 núcleos / 16 hilos |
+| **Frecuencias (base/boost)** |Base: 2.5 GHz / Boost: 4.7 GHz|
+| **Gráficos integrados** |UHD Graphics 730 (integrados)|
+| **TDP / Consumo** |65W TDP máximo|
 | **Precio (€)** |  |
-| **Socket / Compatibilidad** |  |
-| **URL** |  |
-| **Captura** | ![cpu_oficina](../../assets/img/20-parte2/cpu_oficina.png "Captura CPU oficina") |
-| **Justificación** | Explica por qué es adecuado para **ofimática, navegador, videollamadas** (precio/rendimiento/consumo). |
+| **Socket / Compatibilidad** |Socket LGA 1700, Compatible con DDR4 y DDR5
+|
+| **URL** |https://www.pccomponentes.com/intel-core-i5-14400-25-47ghz-box|
+| **Captura** | ![cpu_oficina](../../assets/img/10-parte1/i514gen.png)|
+| **Justificación** |Para ofimática básica, el i5-14400 es sobrado. Sus 10 núcleos manejan multitarea (Excel, Chrome con 20 pestañas, Outlook) sin ralentizaciones. El bajo TDP (65W) genera bajo calor. Los gráficos integrados evitan comprar GPU dedicada para tareas de oficina, cortando costes. Precio competitivo (280€) con última generación 14ª (muy reciente)|
 
 ### 1.4 Microprocesador — PC gaming
 | Campo | Valor |
 |---|---|
-| **Marca y modelo** |  |
-| **Núcleos / Hilos** |  |
-| **Frecuencias (base/boost)** |  |
-| **Caché** |  |
-| **TDP / Consumo** |  |
-| **Precio (€)** |  |
-| **Socket / Compatibilidad** |  |
-| **URL** |  |
-| **Captura** | ![cpu_gaming](../../assets/img/20-parte2/cpu_gaming.png "Captura CPU gaming") |
-| **Justificación** | Relaciona con **fps**, multitarea (streaming/juego), emparejamiento con GPU, cuello de botella, C/P. |
+| **Marca y modelo** |Intel Core i7-14700KF 3.4/5.6GHz Box
+|
+| **Núcleos / Hilos** |20 núcleos / 28 hilos (8 P-cores + 12 E-cores)|
+| **Frecuencias (base/boost)** |Base: 3.4 GHz (P-core) / 2.5 GHz (E-core) Boost:5,6 GHz (P-core) / 4,3 GHz (E-core)|
+| **Caché** |33 MB Cache L3 + 28 MB L2|
+| **TDP / Consumo** |125W base / 253W turbo máximo|
+| **Precio (€)** |351,95 (oferta)|
+| **Socket / Compatibilidad** |Socket LGA 1700, Compatible DDR4/DDR5 192GB máximo
+|
+| **URL** |https://www.pccomponentes.com/intel-core-i7-14700kf-34-56ghz-box|
+| **Captura** | ![cpu_gaming](../../assets/img/10-parte1/i514gen.png) |
+| **Justificación** |Sus 20 núcleos mantienen 150+ FPS en juegos AAA con graficos ultra. Los P-cores a 5.6 GHz garantizan latencia ultra-baja en e-sports competitivos. Con 12 E-cores, soporta streaming simultáneo (OBS) sin sacrificar FPS principal.permite overclocking (K suffix). Caché 33MB reduce fallos de predicción en cargas pesadas. Compatible DDR5 6000+ para máximo ancho banda (89.6 GB/s).|
 
-> **Notas:** Indica si el precio es **con oferta** y la **fecha** de consulta en tu captura.
+> **Notas:** Precio con oferta consultado 29/11/2025.
 
 ---
 
