@@ -74,8 +74,8 @@ Compara **al menos DDR4 vs DDR5**. Si has encontrado más variaciones (p. ej. di
 
 | Tipo RAM | Velocidad típica (MT/s) | Voltaje típico | Consumo/eficiencia | Precio por GB (aprox.) | Compatibilidad con placas | Observaciones |
 |---|---:|---:|---:|---:|---|---|
-| DDR4 |  |  |  |  | Chipset/Socket compatibles (ej. Intel 10–13 gen/AMD AM4 en modelos concretos) |  |
-| DDR5 |  |  |  |  | Chipset/Socket compatibles (ej. Intel 12–14 gen/AMD AM5) |  |
+| DDR4 |3200 MHz (Lexar: 3200 MT/s)|1.2 V	|Bajo consumo energético|€4,87/GB (Lexar: 38,99€ ÷ 8GB)| Chipset/Socket compatibles (ej. Intel 10–13 gen/AMD AM4 en modelos concretos) |Rango temperatura operativa -20°C a 85°C. Estable para portátiles profesionales y multitarea avanzada. Sin overclocking.|
+| DDR5 |6000 MHz (Corsair: 6000 MT/s)|1.4 V	|eficiencia energética mejorada con >89,6 GB/s ancho de banda|€14,998/GB (Corsair: 479,95€ ÷ 32GB)| Chipset/Socket compatibles (ej. Intel 12–14 gen/AMD AM5) |Latencia CAS 36. Disipador térmico integrado. RGB multicolor. Soporte Intel XMP 3.0 / AMD EXPO para overclock seguro. Ancho de banda 89.6 GB/s.|
 
 > Referencia rápida: documenta **placas base compatibles** y si tu CPU escogida admite el tipo de RAM.
 
