@@ -22,8 +22,10 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 |
 | **Precio (€)** |38,99|
 | **URL** |https://www.pccomponentes.com/memoria-ram-lexar-ld4as008g-b3200gsst-8gb-ddr4-3200mhz-260-pin-so-dimm-portatil|
-| **Captura** | ![ram_oficina](../../assets/img/10-parte1/RAMLexar.png)|
+| **Captura** ||
 | **Justificación** |Para un usuario de ofimática básica (navegación web, documentos Office, videoconferencias), 8GB de RAM es más que suficiente. Esta RAM DDR4 es económica y la velocidad 3200MHz es adecuada para tareas ligeras sin desperdiciar presupuesto en especificaciones innecesarias. Bajo consumo energético (1.2V). Está diseñada para portátiles de empresa.|
+
+ ![ram_oficina](../../assets/img/10-parte1/RAMLexar.png)
 
 ### 1.2 Memoria RAM — PC gaming
 | Campo | Valor |
