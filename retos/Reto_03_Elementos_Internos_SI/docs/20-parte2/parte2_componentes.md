@@ -12,7 +12,7 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 
 ### 1.1 Memoria RAM — PC de oficina
 | Campo | Valor |
-|---|---|
+|---|---|sadfhgdsfa
 | **Marca y modelo** |  |
 | **Capacidad** |  |
 | **Velocidad / Timings** |  |
