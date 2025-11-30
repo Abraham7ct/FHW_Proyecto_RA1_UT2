@@ -1,12 +1,5 @@
 # Parte 2 — Selección y comparación de componentes (único archivo)
 
-> **Instrucciones generales**  
-> 1) **Todo en este único archivo**.  
-> 2) Las capturas guárdalas en `assets/img/20-parte2/` y enlázalas con ruta relativa.  
-> 3) Cita **URL** de cada ficha y justifica la elección según **oficina** o **gaming**.  
-
----
-
 ## 1) Búsqueda de componentes (tienda online)
 Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES**). Completa las **4 fichas** siguientes.
 
@@ -16,14 +9,13 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 | **Marca y modelo** |Lexar LD4AS008G-B3200GSST (SO-DIMM)
 |
 | **Capacidad** |8GB|
-| **Velocidad / Timings** |DDR4 3200MHz, CAS 22
+| **Velocidad / Timings / XMP-EXPO** |DDR4 3200MHz, CAS 22
 |
-| **Tipo (DDR4/DDR5) y formato (DIMM/SO-DIMM)** |DDR4 / SO-DIMM 260-pin (para portátil)
-|
+| **Tipo (DDR4/DDR5)** |DDR4 para portátil|
 | **Precio (€)** |38,99|
 | **URL** |https://www.pccomponentes.com/memoria-ram-lexar-ld4as008g-b3200gsst-8gb-ddr4-3200mhz-260-pin-so-dimm-portatil|
-| **Captura** |     |
-| **Justificación** |Para un usuario de ofimática básica (navegación web, documentos Office, videoconferencias), 8GB de RAM es más que suficiente. Esta RAM DDR4 es económica y la velocidad 3200MHz es adecuada para tareas ligeras sin desperdiciar presupuesto en especificaciones innecesarias. Bajo consumo energético (1.2V). Está diseñada para portátiles de empresa.|
+| **Captura** ||
+| **Justificación** |Para un usuario de ofimática básica (navegación web, documentos Office, videoconferencias), 8GB de RAM es más que suficiente. Esta RAM DDR4 es ecionomica y la velocidad 3200MHz es adecuada para tareas ligeras sin desperdiciar presupuesto en especificaciones innecesarias. Bajo consumo energético (1.2V)||
 
  ![ram_oficina](../../assets/img/10-parte1/RAMLexar.png)
 
