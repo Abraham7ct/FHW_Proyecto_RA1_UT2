@@ -1,10 +1,8 @@
-# Checklist de entrega — Reto 03 (Parte 1)
-
-- [ ] **Actividad A:** 3 tiendas (ES), ATX+SFX+TFX por tienda (9 modelos en total).
-- [ ] **Actividad A:** tabla resumen global con los 9 modelos.
-- [ ] **Actividad B:** misma CPU indicada y dos soluciones compatibles (líquida y pasiva) con **URLs**.
-- [ ] **Actividad B:** tabla comparativa completa (precio, TDP/rendimiento, ruido, dimensiones, sockets, mantenimiento, garantía).
-- [ ] Análisis por perfil (gamer, pro diseño/simulación, usuario estándar) y **conclusión**.
-- [ ] Imágenes (si usas) en `assets/img/10-parte1/` con **rutas relativas** correctas.
-- [ ] Consolidado en `docs/90-ENTREGA_UNICA.md`.
-- [ ] PDF único exportado: `apellido1_apellido2_nombre_FHW_UT2_Reto_03.pdf` (sin ñ/tildes).
+# 99 — Entrega y Checklist
+- [ ] Estructura exacta como el template.
+- [ ] Parte 1 completa (tablas + URLs + conclusión).
+- [ ] Parte 2 completa (fichas RAM/CPU + tabla DDR4/DDR5 + investigación DDR5).
+- [ ] Parte 3 completa (tramos, tabla precios reales, imágenes, conclusión).
+- [ ] Enlaces relativos a imágenes verificados.
+- [ ] `90-ENTREGA_UNICA.md` listo.
+- [ ] PDF único exportado como: `apellido1_apellido2_nombre_FHW_UT2_Retro_03.pdf`.

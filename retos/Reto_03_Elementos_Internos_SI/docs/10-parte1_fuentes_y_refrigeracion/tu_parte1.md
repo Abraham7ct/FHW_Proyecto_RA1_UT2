@@ -1,8 +1,3 @@
-# Parte 1 — Actividades A y B (único archivo)
-*(Rellena a partir de `plantilla_parte1.md`)*
+# Parte 1 — Fuentes y Refrigeración (tu documento)
 
-## Actividad A — Investigación de Fuentes de Alimentación
-[Completar tablas por tienda y la tabla resumen global.]
-
-## Actividad B — Refrigeración para la MISMA CPU (Líquida vs Pasiva)
-[Completar tabla comparativa, análisis por perfil y conclusión.]
+> Duplica la plantilla y complétala aquí.

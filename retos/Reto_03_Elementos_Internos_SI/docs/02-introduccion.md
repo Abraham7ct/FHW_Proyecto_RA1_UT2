@@ -1,5 +1,2 @@
-# Introducción
-
-En este reto nos centramos en **elementos internos** clave: alimentación y refrigeración.
-- **Fuentes de alimentación:** formatos (ATX, SFX, TFX), eficiencia 80 PLUS, modularidad, PFC y dimensiones.
-- **Refrigeración de CPU:** contraste entre soluciones **líquidas AIO** y **pasivas** para una **misma CPU**, evaluando eficiencia, ruido y coste.
+# 02 — Introducción
+En este reto investigamos **fuentes de alimentación**, **sistemas de refrigeración**, **RAM/CPU** para usos distintos y analizamos **GPUs** comparando las recomendaciones de un vídeo con **precios reales** de tiendas. El resultado final se consolida en un **PDF único**.
