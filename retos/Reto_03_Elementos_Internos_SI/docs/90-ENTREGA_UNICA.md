@@ -156,12 +156,9 @@ Compara **al menos DDR4 vs DDR5**. Si has encontrado más variaciones (p. ej. di
 | DDR4 |3200 MHz (Lexar: 3200 MT/s)|1.2 V	|Bajo consumo energético|€4,87/GB (Lexar: 38,99€ ÷ 8GB)| Chipset/Socket compatibles (ej. Intel 10–13 gen/AMD AM4 en modelos concretos) |Rango temperatura operativa -20°C a 85°C. Estable para portátiles profesionales y multitarea avanzada. Sin overclocking.|
 | DDR5 |6000 MHz (Corsair: 6000 MT/s)|1.4 V	|eficiencia energética mejorada con >89,6 GB/s ancho de banda|€14,998/GB (Corsair: 479,95€ ÷ 32GB)| Chipset/Socket compatibles (ej. Intel 12–14 gen/AMD AM5) |Latencia CAS 36. Disipador térmico integrado. RGB multicolor. Soporte Intel XMP 3.0 / AMD EXPO para overclock seguro. Ancho de banda 89.6 GB/s.|
 
-> Referencia rápida: documenta **placas base compatibles** y si tu CPU escogida admite el tipo de RAM.
-
 ---
 
 ## 3) Investigación — DDR5
-Responde con apoyo de fuentes (cítalas al final de este archivo).
 
 1. **Ventajas frente a DDR4:**Ancho de banda: DDR5 (Corsair 6000MHz) proporciona 96 GB/s vs DDR4 (Lexar 3200MHz) con 25.6 GB/s, representando una mejora de +375%. Esto permite transferencias de datos masivas más rápidas, críticas para gaming 4K y edición de video.
 
@@ -209,7 +206,7 @@ Con DDR5 Corsair (32GB 6000MHz):
 > Vídeo: **“Mejores Tarjetas Gráficas Calidad - Precio | TOP GPUs GAMING Black Friday 2025”**  
 > URL: https://www.youtube.com/watch?v=ILOtkTXLUvg
 
-## 1) Introducción (5–10 líneas)
+## 1) Introducción 
 En el video se dan recomendaciones sobre gráficas recomendadas según diferentes tramnos de precios, en esta parte del reto, vamos a compararlas entre ellas, teniendo en cuenta diiferentes factores (precio,especificaciones...) .
 
 ## 2) Tramos del vídeo y modelos mencionados
@@ -266,7 +263,7 @@ No, pero en el tramo de los 600-800€ se recomiendan las siguiente graficas en 
 ![gpu_c](../../assets/img/10-parte1/Geforce5070Ti.png)
 ![gpu_d](../../assets/img/10-parte1/Radeon9070XT.png)
 
-## 5) Conclusión (5–8 líneas)
+## 5) Conclusión
 - **¿Los precios reales se parecen a lo que sugiere el vídeo?**
 
 En PcComponentes, son más caras respecto a los precios que se dan en el video, pero pueden haber cambios en los precios durante el periodo del BlackFriday y que los precios acaben siendo más similares a los mencionados, por otra parte, no he buscado los modelos en otras tiendas, pero seguramente puedas encontrar un precio algo más competitivo si buscas en diferentes tiendas de componentes. 
