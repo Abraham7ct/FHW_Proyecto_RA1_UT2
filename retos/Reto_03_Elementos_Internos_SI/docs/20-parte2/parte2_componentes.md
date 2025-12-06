@@ -54,15 +54,13 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 ### 1.4 Microprocesador — PC gaming
 | Campo | Valor |
 |---|---|
-| **Marca y modelo** |Intel Core i7-14700KF 3.4/5.6GHz Box
-|
+| **Marca y modelo** |Intel Core i7-14700KF 3.4/5.6GHz Box|
 | **Núcleos / Hilos** |20 núcleos / 28 hilos (8 P-cores + 12 E-cores)|
 | **Frecuencias (base/boost)** |Base: 3.4 GHz (P-core) / 2.5 GHz (E-core) Boost:5,6 GHz (P-core) / 4,3 GHz (E-core)|
 | **Caché** |33 MB Cache L3 + 28 MB L2|
 | **TDP / Consumo** |125W base / 253W turbo máximo|
 | **Precio (€)** |351,95 (oferta)|
-| **Socket / Compatibilidad** |Socket LGA 1700, Compatible DDR4/DDR5 192GB máximo
-|
+| **Socket / Compatibilidad** |Socket LGA 1700, Compatible DDR4/DDR5 192GB máximo|
 | **URL** |https://www.pccomponentes.com/intel-core-i7-14700kf-34-56ghz-box|
 | **Captura** | |
 | **Justificación** |Sus 20 núcleos mantienen 150+ FPS en juegos AAA con graficos ultra. Los P-cores a 5.6 GHz garantizan latencia ultra-baja en e-sports competitivos. Con 12 E-cores, soporta streaming simultáneo (OBS) sin sacrificar FPS principal.permite overclocking (K suffix). Caché 33MB reduce fallos de predicción en cargas pesadas. Compatible DDR5 6000+ para máximo ancho banda (89.6 GB/s).|
