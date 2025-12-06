@@ -64,6 +64,7 @@ No, pero en el tramo de los 600-800€ se recomiendan las siguiente graficas en 
 
 En PcComponentes, son más caras respecto a los precios que se dan en el video, pero pueden haber cambios en los precios durante el periodo del BlackFriday y que los precios acaben siendo más similares a los mencionados, por otra parte, no he buscado los modelos en otras tiendas, pero seguramente puedas encontrar un precio algo más competitivo si buscas en diferentes tiendas de componentes. 
 - ¿Cuál de las cuatro ofrece mejor **calidad-precio** y por qué?
+  
 Para el **primer tramo de precios** y basándome solo en los precios de PcComponentes, la mejor en relacion calidad precio es la **5060 Ti de GeForce** que aunque ofrece unas especificaciones bastante similares a la de AMD, dispone de las tecnologías de NVIDIA como el DLSS y la generacion de frames con IA para videojuegos que en la version de 8GB es bastante diferencial a la hora del gaming.
 
 En el **segundo tramo de precios** de nuevo basandome solo en los precios ofrecidos en PcComponentes, la mejor relacion calidad precio es para la **AMD RX 9070 XT** de 16GB, que aunque tiene GDDR6 en puesto del GDDR7 de la GeForce,  su precio es casi 300€ menor y la tecnología FSR4 es bastante similar a DLSS de NVIDIA, aportando grandes resultados también en el area del gaming. 
