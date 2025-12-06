@@ -6,11 +6,9 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 ### 1.1 Memoria RAM — PC de oficina
 | Campo | Valor |
 |---|---|
-| **Marca y modelo** |Lexar LD4AS008G-B3200GSST (SO-DIMM)
-|
+| **Marca y modelo** |Lexar LD4AS008G-B3200GSST (SO-DIMM)|
 | **Capacidad** |8GB|
-| **Velocidad / Timings / XMP-EXPO** |DDR4 3200MHz, CAS 22
-|
+| **Velocidad / Timings / XMP-EXPO** |DDR4 3200MHz, CAS 22|
 | **Tipo (DDR4/DDR5)** |DDR4 para portátil|
 | **Precio (€)** |38,99|
 | **URL** |https://www.pccomponentes.com/memoria-ram-lexar-ld4as008g-b3200gsst-8gb-ddr4-3200mhz-260-pin-so-dimm-portatil|
