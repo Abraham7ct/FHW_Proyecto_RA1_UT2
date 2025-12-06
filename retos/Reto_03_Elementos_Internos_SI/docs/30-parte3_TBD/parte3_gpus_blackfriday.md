@@ -13,13 +13,13 @@ Breve resumen del vídeo y de lo que vas a hacer en esta parte.
 ## 2) Tramos del vídeo y modelos mencionados
 ### 2.1 Tramo ~350 €
 - Minuto inicio–fin: **mm:ss – mm:ss**
-- GPUs citadas (2): **Modelo A**, **Modelo B**
+- GPUs citadas (2): **PowerColor Reaper AMD Radeon RX 9060 XT 16GB GDDR6**, **ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC 8GB GDDR7**
 
 ### 2.2 Tramo 600–800 €
 - Minuto inicio–fin: **mm:ss – mm:ss**
-- GPUs citadas (2): **Modelo C**, **Modelo D**
+- GPUs citadas (2): **MSI GeForce RTX 5070 Ti VENTUS 3X OC 16GB GDDR7**, **Sapphire PULSE AMD Radeon RX 9070 XT 16GB GDDR6**
 
-**¿Se repite algún modelo entre tramos?** Explica brevemente.
+**¿Se repite algún modelo entre tramos?** No, pero en el tramo de los 600-800€ se recomienda la siguiente grafica en la gama de AMD de la anterior recomendada(modelo A), que es la 9070 xt ddr6, ambas con 16gb. 
 
 ## 3) Precios reales en tiendas
 > Inserta imágenes en `assets/img/30-parte3/` y enlaza con ruta relativa.
@@ -57,10 +57,10 @@ Breve resumen del vídeo y de lo que vas a hacer en esta parte.
 ## 4) Tabla comparativa (precios reales)
 | Tramo (vídeo) | GPU (modelo del vídeo) | Tienda | Precio (€) | URL | Imagen |
 |---|---|---|---:|---|---|
-| 350 € | Modelo A |  |  |  | *(insertar abajo)* |
-| 350 € | Modelo B |  |  |  | *(insertar abajo)* |
-| 600–800 € | Modelo C |  |  |  | *(insertar abajo)* |
-| 600–800 € | Modelo D |  |  |  | *(insertar abajo)* |
+| 350 € | PowerColor Reaper AMD Radeon RX 9060 XT 16GB GDDR6  |  |  |https://www.pccomponentes.com/tarjeta-grafica-powercolor-reaper-amd-radeon-rx-9060-xt-16gb-gddr6-fsr-4||
+| 350 € | ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC 8GB GDDR7 |  |  |https://www.pccomponentes.com/tarjeta-grafica-zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4||
+| 600–800 € | MSI GeForce RTX 5070 Ti VENTUS 3X OC 16GB GDDR7 |  |  |https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4||
+| 600–800 € | Sapphire PULSE AMD Radeon RX 9070 XT 16GB GDDR6 |  |  |https://www.pccomponentes.com/tarjeta-grafica-sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gddr6-fsr-4||
 
 ## 5) Conclusión (5–8 líneas)
 - ¿Los precios reales se parecen a lo que sugiere el vídeo?  
