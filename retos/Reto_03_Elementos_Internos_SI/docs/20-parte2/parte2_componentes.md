@@ -22,11 +22,9 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 ### 1.2 Memoria RAM — PC gaming
 | Campo | Valor |
 |---|---|
-| **Marca y modelo** |Corsair Vengeance RGB DDR5 (CMH32GX5M2E6000Z36W)
-|
+| **Marca y modelo** |Corsair Vengeance RGB DDR5 (CMH32GX5M2E6000Z36W)|
 | **Capacidad** |32GB (2x16GB)|
-| **Velocidad / Timings / XMP-EXPO** |DDR5 6000MHz, CAS 36, Intel XMP 3.0 & AMD EXPO
-|
+| **Velocidad / Timings / XMP-EXPO** |DDR5 6000MHz, CAS 36, Intel XMP 3.0 & AMD EXPO|
 | **Tipo (DDR4/DDR5)** |DDR5|
 | **Precio (€)** |479,95€(oferta)|
 | **URL** |https://www.pccomponentes.com/memoria-ram-corsair-32gb-ddr5-6000mhz-vengeance-rgb-cmh32gx5m2e6000z36w|
@@ -39,15 +37,13 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 ### 1.3 Microprocesador — PC de oficina
 | Campo | Valor |
 |---|---|
-| **Marca y modelo** |Intel Core i5-14400 2.5/4.7GHz Box
-|
+| **Marca y modelo** |Intel Core i5-14400 2.5/4.7GHz Box|
 | **Núcleos / Hilos** |10 núcleos / 16 hilos |
 | **Frecuencias (base/boost)** |Base: 2.5 GHz / Boost: 4.7 GHz|
 | **Gráficos integrados** |UHD Graphics 730 (integrados)|
 | **TDP / Consumo** |65W TDP máximo|
 | **Precio (€)** |  |
-| **Socket / Compatibilidad** |Socket LGA 1700, Compatible con DDR4 y DDR5
-|
+| **Socket / Compatibilidad** |Socket LGA 1700, Compatible con DDR4 y DDR5|
 | **URL** |https://www.pccomponentes.com/intel-core-i5-14400-25-47ghz-box|
 | **Captura** | |
 | **Justificación** |Para ofimática básica, el i5-14400 es sobrado. Sus 10 núcleos manejan multitarea (Excel, Chrome con 20 pestañas, Outlook) sin ralentizaciones. El bajo TDP (65W) genera bajo calor. Los gráficos integrados evitan comprar GPU dedicada para tareas de oficina, cortando costes. Precio competitivo (280€) con última generación 14ª (muy reciente)|
