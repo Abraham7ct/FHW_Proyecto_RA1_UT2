@@ -14,8 +14,10 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 | **Tipo (DDR4/DDR5)** |DDR4 para portátil|
 | **Precio (€)** |38,99|
 | **URL** |https://www.pccomponentes.com/memoria-ram-lexar-ld4as008g-b3200gsst-8gb-ddr4-3200mhz-260-pin-so-dimm-portatil|
-| **Captura** |![ram_oficina](../../assets/img/10-parte1/RAMLexar.png)|
+| **Captura** ||
 | **Justificación** |Para un usuario de ofimática básica (navegación web, documentos Office, videoconferencias), 8GB de RAM es más que suficiente. Esta RAM DDR4 es ecionomica y la velocidad 3200MHz es adecuada para tareas ligeras sin desperdiciar presupuesto en especificaciones innecesarias. Bajo consumo energético (1.2V)||
+
+![ram_oficina](../../assets/img/10-parte1/RAMLexar.png)
 
  
 
@@ -30,8 +32,11 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 | **Tipo (DDR4/DDR5)** |DDR5|
 | **Precio (€)** |479,95€(oferta)|
 | **URL** |https://www.pccomponentes.com/memoria-ram-corsair-32gb-ddr5-6000mhz-vengeance-rgb-cmh32gx5m2e6000z36w|
-| **Captura** | ![ram_gaming](../../assets/img/10-parte1/RAMCorsair.png)|
+| **Captura** ||
 | **Justificación** |Para gaming competitivo con streaming simultáneo, 32GB de DDR5 es óptimo. La velocidad 6000MHz y latencia CAS 36 garantizan máximos FPS en juegos AAA 2025.La iluminación RGB sincronizable (Corsair iCUE) añade estética gaming. Disipador térmico integrado mantiene temperaturas estables bajo carga sostenida. Voltaje 1.4V es eficiente para DDR5. Ideal con GPU RTX 5070+.|
+
+ ![ram_gaming](../../assets/img/10-parte1/RAMCorsair.png)
+
 
 ### 1.3 Microprocesador — PC de oficina
 | Campo | Valor |
@@ -46,8 +51,11 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 | **Socket / Compatibilidad** |Socket LGA 1700, Compatible con DDR4 y DDR5
 |
 | **URL** |https://www.pccomponentes.com/intel-core-i5-14400-25-47ghz-box|
-| **Captura** | ![cpu_oficina](../../assets/img/10-parte1/i514gen.png)|
+| **Captura** | |
 | **Justificación** |Para ofimática básica, el i5-14400 es sobrado. Sus 10 núcleos manejan multitarea (Excel, Chrome con 20 pestañas, Outlook) sin ralentizaciones. El bajo TDP (65W) genera bajo calor. Los gráficos integrados evitan comprar GPU dedicada para tareas de oficina, cortando costes. Precio competitivo (280€) con última generación 14ª (muy reciente)|
+
+
+![cpu_oficina](../../assets/img/10-parte1/i514gen.png)
 
 ### 1.4 Microprocesador — PC gaming
 | Campo | Valor |
@@ -62,8 +70,11 @@ Elige una o varias tiendas (p. ej., **PcComponentes**, **Amazon ES**, **LDLC ES*
 | **Socket / Compatibilidad** |Socket LGA 1700, Compatible DDR4/DDR5 192GB máximo
 |
 | **URL** |https://www.pccomponentes.com/intel-core-i7-14700kf-34-56ghz-box|
-| **Captura** | ![cpu_gaming](../../assets/img/10-parte1/i514gen.png) |
+| **Captura** | |
 | **Justificación** |Sus 20 núcleos mantienen 150+ FPS en juegos AAA con graficos ultra. Los P-cores a 5.6 GHz garantizan latencia ultra-baja en e-sports competitivos. Con 12 E-cores, soporta streaming simultáneo (OBS) sin sacrificar FPS principal.permite overclocking (K suffix). Caché 33MB reduce fallos de predicción en cargas pesadas. Compatible DDR5 6000+ para máximo ancho banda (89.6 GB/s).|
+
+
+![cpu_gaming](../../assets/img/10-parte1/i514gen.png) 
 
 > **Notas:** Precio con oferta consultado 29/11/2025.
 
